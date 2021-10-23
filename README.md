@@ -1,2 +1,2 @@
-# .github
-郑州轻工业大学软件实践与创新基地
+# 组织仓库
+Overview 展示文档，编辑profile文件夹中的README.md文件。
