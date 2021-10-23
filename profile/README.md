@@ -1,12 +1,13 @@
-## Hi there 👋
+<h1 align="center">⚡欢迎访问软件实践与创新基地组织仓库⚡</h1>
 
-<!--
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rc-fishing&label=Profile%20views&color=0e75b6&style=flat" alt="rc-fishing" /> </p>
 
-**Here are some ideas to get you started:**
+<p>&emsp;&emsp;2013 年，它诞生了，由一群热爱技术的学生，和老师们一起组建了一个富有活力的组织。在每年的各种比赛中，披荆斩棘，力争第一。我们不断磨炼自己，勤奋学习，寻找机会磨炼自己，我们历经坎坷，遇到过低谷，也到达过高峰，经过一代代的传承接力，每个人都拥有了更加充足的资源，收获更多的知识与经历。</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+## 团队项目
+
+- 郑州轻工业大学软件实践与创新基地综合平台 (Innovation-Platform)
+
+## 鸣谢
+
+全体成员
